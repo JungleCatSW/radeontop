@@ -3,3 +3,4 @@ libradeontop_xcb.so
 radeontop
 version.h
 *.mo
+/.idea
